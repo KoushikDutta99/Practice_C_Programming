@@ -1,18 +1,19 @@
 # Practice_C_Programming
 
-- 1.hello_world.c
-- Armstrong_Number_Check.c
-- Factorial.c
-- Fibonacci.c
-- Palindrome_Number_Check.c
-- Pattern_Star_Diamond.c
-- Pattern_Star_Heart.c
-- Pattern_Star_Left_Triangle.c
-- Pattern_Star_Pyramid.c
-- Pattern_Star_Reverse_Pyramid.c
-- Pattern_Star_Right_Triangle.c
-- Pattern_Star_Square.c
-- Prime_Number_Check.c
-- Reverse_Number.c
-- Swapping_Variable.c
-- Table_of_a_number.c
+- Print hello world 
+- Armstrong Number Check 
+- Factorial 
+- Fibonacci 
+- Palindrome Number Check 
+- Pattern Star Diamond in shape
+- Pattern Star Heart in shape
+- Pattern Star Left Triangle in shape
+- Pattern Star Pyramid in shape
+- Pattern Star Reverse Pyramid in shape
+- Pattern Star Right Triangle in shape
+- Pattern Star Square in shape
+- Prime Number Check 
+- Reverse a Number
+- Swapping a Variable
+- Table_of_a_number
+- Write hello world for nth time
