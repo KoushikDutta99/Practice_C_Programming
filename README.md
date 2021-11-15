@@ -14,3 +14,5 @@
 - Pattern_Star_Square.c
 - Prime_Number_Check.c
 - Reverse_Number.c
+- Swapping_Variable.c
+- Table_of_a_number.c
