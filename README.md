@@ -2,12 +2,19 @@
 
 - Print hello world
 - Armstrong Number Check 
+- Print English Alphabets between two Alphabets
+- Convert Binary to Decimal number
+- Convert Decimal to Binary number
 - Print Even numbers till N
 - Print Factorial 
 - Print Fibonacci 
+- Print the first digit of a given number
+- Find whether the first digit of given number is ODD or EVEN
+- Multiply two numbers without using * operator
 - Print N Natural numbers
 - Print N EVEN numbers
 - Print N ODD numbers
+- Find N power of M (Exponentiation) without using predefined function
 - Print N Natural numbers in reverse
 - Print ODD numbers till N
 - Palindrome Number Check 
@@ -20,6 +27,8 @@
 - Print Pattern Star Square in shape
 - Prime Number Check 
 - Print Reverse of a Number
+- Calculate sum of N given numbers
 - Swapping a Variable
 - Print Table of N variable for N times
+- print all the English Alphabets in Upper case and in Lower case
 - Print hello world for n time
