@@ -4,6 +4,7 @@
 - Armstrong Number Check 
 - Print English Alphabets between two Alphabets
 - Convert Binary to Decimal number
+- Program to Count the Number of Digits
 - Convert Decimal to Binary number
 - Print Even numbers till N
 - Print Factorial 
